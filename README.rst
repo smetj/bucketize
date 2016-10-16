@@ -10,9 +10,28 @@ A CLI tool to determine STDIN line rate at the interval of choice.
 Installation
 ------------
 
+Directly from github:
+
+.. code-block:: bash
+
+    $ pip install git+https://github.com/smetj/bucketize.git
+
+
+
+From Pypi:
+
+.. code-block:: bash
+
+    $ pip install bucketize
+
+
+
+From a cloned repo:
+
 .. code-block:: bash
 
     $ python setup.py install
+
 
 
 Examples
